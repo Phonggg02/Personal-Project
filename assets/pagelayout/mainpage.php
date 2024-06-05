@@ -4,7 +4,7 @@
     <!-- Phần thân hiển thị nội dung -->
     <div class="grid grid-main-page">
         <div class="grid__row background-row">
-            <!-- <div class="grid__column-10 bacground-row"> -->
+            <div class="grid__column-10 bacground-row" style="display: flex;">
                 <div class="grid__column-6-10 slider-img-view">
                     <div class="slider-view">
                         <div class="slider">
@@ -60,7 +60,7 @@
                         <img class="right-img" src="./assets/img/slide2.jpg" alt="">
                     </div>
                 </div>
-            <!-- </div> -->
+            </div>
         </div>
         <div class="grid__row">
             <div class="grid__column-10  bacground-row grid-with-category">

@@ -104,6 +104,12 @@ html {
     margin-top: 25px;
 }
 
+.grid__column-6 {
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 66.667%;
+    margin-top: 25px;
+}
 .grid__column-7 {
     padding-left: 12px;
     padding-right: 12px;
@@ -211,7 +217,7 @@ html {
 
 .grid__column-6-10 {
     padding-left: 12px;
-    padding-right: 12px;
+    /* padding-right: 12px; */
     width: 60%;
 }
 
