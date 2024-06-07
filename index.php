@@ -57,8 +57,7 @@
                         <!-- Thông báo -->
                         <li class="header__navbar-item header__navbar-item--noti">
                             <a href="" class="header__navbar-link">
-                                <img class="header__navbar-icon" src="./assets/img/bell_icon.png" alt="">
-                                <span class="item-name">Thông báo</span>
+                                <img class="header__navbar-icon" src="./assets/img/bell.png" alt="">
                             </a> 
                             <div class="header__notifi">
                                 <header class="header__notifi-header">
@@ -98,17 +97,15 @@
                             <a href="index.php?page_layout=cart" class="header__navbar-link">
                                 <div class="header-cartwrap">
                                 <img class="cart-logo" src="./assets/img/cart.png" alt="">
-                                <span class="item-name">Giỏ hàng</span>
                             </a>
                         </li>
     
                         <!-- Trợ giúp -->
-                        <li class="header__navbar-item">
+                        <!-- <li class="header__navbar-item">
                             <a href="" class="header__navbar-link">
-                                <img class="header__navbar-icon" src="./assets/img/help_icon.png" alt="">
-                                <span class="item-name">Trợ giúp</span>
+                                <img class="header__navbar-icon" src="./assets/img/question.png" alt="">
                             </a>
-                        </li>
+                        </li> -->
     
                         <!-- Tài khoản -->
                         <?php 
@@ -148,8 +145,7 @@
                         <!-- Tài khoản chưa đăng nhập -->
                         <li class="header__navbar-item not-yet-signin">
                             <a href="index.php?page_layout=login" class="header__navbar-link">
-                                <img class="header__navbar-icon" src="./assets/img/user-icon.png" alt="">
-                                <span class="item-name">Tài khoản</span>
+                                <img class="header__navbar-icon" src="./assets/img/user.png" alt="">
                             </a>
                         </li>
                         <script>

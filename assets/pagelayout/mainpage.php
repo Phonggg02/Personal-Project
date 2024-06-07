@@ -4,8 +4,8 @@
     <!-- Phần thân hiển thị nội dung -->
     <div class="grid grid-main-page">
         <div class="grid__row background-row">
-            <div class="grid__column-10 bacground-row" style="display: flex;">
-                <div class="grid__column-6-10 slider-img-view">
+            <div class="grid__column-12 bacground-row" style="display: flex;">
+                <div class="slider-img-view">
                     <div class="slider-view">
                         <div class="slider">
                             <div class="slides">
@@ -52,12 +52,6 @@
                                 }, 3000);
                             </script>
                         </div>
-                    </div>
-                </div>
-                <div class="grid__column-4-10">
-                    <div class="view-rightimg">
-                        <img class="right-img" src="./assets/img/slide1.jpg" alt="">
-                        <img class="right-img" src="./assets/img/slide2.jpg" alt="">
                     </div>
                 </div>
             </div>

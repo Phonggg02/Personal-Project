@@ -2,6 +2,7 @@
 
 :root {
     --primary-color: #00bfff;
+    --lightbg-color: #eaf5f9b3;
     --hover-color: rgba(0, 191, 255, 0.3);
     --text-color: #363636;
     --header-height: 100px;
@@ -36,7 +37,7 @@ html {
 
 .bacground-row {
     margin: auto;
-    background-color: #fff;
+    /* background-color: #fff; */
     border-radius: 5px;
     margin-top: 30px;
     padding: 10px 30px 20px;
